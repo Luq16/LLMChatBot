@@ -33,7 +33,7 @@ response=get_chatmodel_response(input)
 
 submit=st.button("Ask the question")
 
-## If ask button is clicked
+## If ask button is clicke
 
 if submit:
     st.subheader("The Response is")
