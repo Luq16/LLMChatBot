@@ -1,1 +1,1 @@
-![Alt text](LLMChatBot-1/image.png)
+![Alt text](LLMChatBot/image.png)
